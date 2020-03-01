@@ -1,0 +1,42 @@
+h1
+{text-align: center;}
+.homework{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+
+}
+p
+{
+    text-align: center;
+    margin-top: 20px;
+}
+.homework1
+{
+    width: 30%;
+}
+.homework2
+{width: 40%;
+
+}
+
+.homework3
+{
+    width: 30%;
+}
+img{
+    width: 70%;
+    padding: 0px;
+    border-radius: 100px;
+
+}
+.p
+{text-align: center;  }
+hr
+{
+    width: 3cm;
+    text-align: center;
+    color: darkorange;
+    background-color: darkorange;
+    height: 3px;
+}
